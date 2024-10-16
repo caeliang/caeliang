@@ -3,8 +3,6 @@
 - 🌱 I’m currently studying computer engineering
 - 💞️ I’m looking to collaborate on anywhere (LOL)
 - 📫 How to reach me ...
-- 😄 Pronouns: ...I'm biological female, so you can guess my pronouns
-- ⚡ Fun fact: ...nothing fun about me or special
 
 <!---
 caeliang/caeliang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
